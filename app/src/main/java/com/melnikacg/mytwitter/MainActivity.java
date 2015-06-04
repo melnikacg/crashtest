@@ -14,6 +14,7 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
 
 
+
         /*try {
             myMethodThatThrows();
         } catch (Exception e) {
