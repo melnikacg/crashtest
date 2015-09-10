@@ -15,5 +15,7 @@ public class MyApplication extends Application {
         Crashlytics.start(this);
     }
 
+    void newMethodTest(){}
+
 
 }
