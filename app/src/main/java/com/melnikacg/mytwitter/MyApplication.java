@@ -23,5 +23,7 @@ public class MyApplication extends Application {
     void newMethodTest5(){}
 
 
+    void newMethodTest6(){}
+    void newMethodTest7(){}
 
 }
