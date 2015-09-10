@@ -20,6 +20,7 @@ public class MainActivity extends ActionBarActivity {
            // handle your exception here!
         }*/
 
+
         throw new RuntimeException("This is a crash");
 
     }
