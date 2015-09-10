@@ -17,15 +17,21 @@ public class MyApplication extends Application {
 
     void newMethodTest(){}
 
+
     void newMethodTest2(){}
+
 
     void newMethodTest3(){}
 
+
     void newMethodTest4(){}
+
 
     void newMethodTest5(){}
 
+
     void newMethodTest6(){}
+
 
     void newMethodTest7(){}
 
